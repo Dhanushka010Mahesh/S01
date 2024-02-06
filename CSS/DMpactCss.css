@@ -1,0 +1,114 @@
+body{
+	background-color:darkblue;
+}
+.relative{
+	position: relative;
+	background-color:rgba(0, 0, 255, 0.7);
+	border: 2px solid yellow;
+	height: 700px;
+	width: 90%;
+	margin-left: 5%;
+	margin-top: 2px;
+	border-radius: 4px;
+}
+footer{
+	background-color:lightblue;
+	text-align: center;
+	margin: 70px;
+	padding: 7px;
+	border: 2px solid green;
+}
+ul{
+	color:black;
+	background-color: lightblue;
+	margin:10px 70px;
+	padding: 20px;
+	text-align: right;
+	border: 2px solid green;
+}
+li{
+	display: inline;
+	padding: 10px;
+	
+}
+.absolute1{
+	border:1px solid black;
+	position: absolute;
+	left: 45%;
+	top: 30px;
+	bottom: 30px;
+	width:50%;
+	height:640px;
+	border-radius: 6px;
+
+}
+.absolute2{
+	border:1px solid black;
+	position: absolute;
+	left:50px;
+	top: 30px;
+	height:640px;
+	width:40%;
+	background-color:darkblue;
+	border-radius: 20px;
+}
+#subPage{
+	position: relative;
+	margin-left:50px;
+	border: 2px solid red;
+	height: 700px;
+	width: 98%;
+	margin-left: 1%;
+	margin-top: 2px;
+	background-color:rgba(0, 0, 255, 0.7);
+}
+mark{
+	font-family: fantasy;
+	font-size: 28px;
+}
+#perfilePic{
+	width: 200px;
+	height: 200px;
+	margin-left: 170px;
+	border-radius: 100%;
+	border: 2px solid darkred;
+}
+dt{
+	color: yellow;
+	font-family: cursive;
+	font-size: 20px;
+	margin-left: 10px;
+}
+dd{
+	color: white;
+	font-family: sans-serif;
+	
+	font-size: 18px;
+}
+#miniLogo{
+	width:50px; 
+	height:50px;
+	border-radius: 70%;
+}
+#picSchool{
+	width: 400px;
+	height: 150px;
+}
+#videoProject{
+	width: 400px;
+	height: 170px;
+}
+#MyIcons{
+	width: 70px;
+	height: 70px;
+	border: 1px solid red;
+	border-radius: 80%;
+	margin-left: 445px;
+}
+#DownButton{
+	height: 30px;
+	width: 200px;
+	border-radius: 20%;
+	border: 2px double deeppink;
+	background-color: chocolate;
+}
